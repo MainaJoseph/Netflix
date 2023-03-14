@@ -50,9 +50,12 @@
     margin: 10px 10px;
     font-weight: 400;
     font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     width: calc(25% - 20px);
     
   }
+
+  
 
   @media only screen and (max-width: 600px) {
     .footer-links a {
@@ -62,9 +65,17 @@
         font-weight: 400;
         font-style: normal;
         width: calc(50% - 10px);
-        text-decoration: underline;
         text-align: left;
       }
+
+      .footer-links a:hover {
+        text-decoration: underline;
+      }
+  }
+
+
+  .footer-links a:hover {
+    color: red;
   }
 
 
