@@ -1,0 +1,137 @@
+.loginScreen {
+    position: relative;
+    height: 100%;
+    background: url("https://assets.nflxext.com/ffe/siteui/vlv3/757ab38f-5d08-40bc-b3eb-eaba63ed8203/93c34f94-56c8-40a7-8b2e-b4aac6427977/GB-en-20210125-popsignuptwoweeks-perspective_alpha_website_medium.jpg") center no-repeat;
+    background-size: cover;
+
+}
+
+.loginScreen__logo {
+    position: absolute;
+    left: 0;
+    width: 150px;
+    object-fit: contain;
+    padding-left: 20px;
+    cursor: pointer;
+
+}
+
+.loginScreen__body > h1 {
+font-size: 3.125rem;
+margin-bottom: 20px;
+}
+
+.signupScreen__gray {
+    color: gray;
+}
+
+.loginScreen__body > h2 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.loginScreen__body > h3 {
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+.loginScreen__body {
+    position: absolute;
+    top: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    z-index: 1;
+    color: #fff;
+    padding: 20px;
+    left: 0;
+    right: 0;
+}
+
+
+.loginScreen__gradient {
+    width: 100%;
+    z-index: 1;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+    background: linear-gradient(
+        to top
+        rgba(0,0,0,0.8)0,
+        rgba(0,0,0,0)60%,
+        rgba(0,0,0,0.8)100%
+    );
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+.loginScreen__button {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #e50914;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+
+.loginScreen__button:hover {
+    background-color: #f70a12;
+  }
+
+.loginScreen__input > form > input {
+    padding: 10px;
+    outline-width: 0;
+    height: 30px;
+    width: 30%;
+    border: 1px solid #fff;
+    max-width: 600px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 10px; /* Add margin between input and button */
+
+}
+
+.loginScreen__input {
+    margin: 40px;
+}
+
+.loginScreen__getStarted {
+    padding: 16px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #e50914;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px; /* Add margin between button and input */
+
+}
+
+.loginScreen__getStarted:hover {
+    background-color: #f70a12; 
+}
+
+.loginScreen__border {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 10px;
+    width: 100%;
+    background-color: rgb(59, 59, 59);
+    border: none;
+}
+
+.loginScreen__errorMessage {
+    color: red;
+    margin-right: 10px;
+}
+  
+

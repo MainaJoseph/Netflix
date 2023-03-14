@@ -1,0 +1,50 @@
+.contactus {
+    position: relative;
+    height: 100%;
+    background-color: #fff;
+}
+
+
+.contactus__navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #141414;
+    color: white;
+    padding: 0 20px;
+}
+
+
+.contact__navbarlogo {
+    position: absolute;
+    left: 0;
+    width: 150px;
+    object-fit: contain;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+
+.contactus__navbarbuttons {
+    display: flex;
+}
+
+.contactus__navbarjoin-button {
+    background-color: #e50914;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.contact__navbarsignin-button {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
