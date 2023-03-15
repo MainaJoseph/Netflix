@@ -1,21 +1,37 @@
 .signupScreen {
     max-width: 300px;
-    padding: 50px 70px 70px 70px;
+    padding: 30px 70px 50px 70px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: -190px;
+    margin-top: -150px;
     background: rgba(0, 0, 0, 0.85);
+}
+
+@media only screen and (max-width: 600px) {
+    .signupScreen {
+        max-width: 280px;
+        padding: 20px 60px 10px 60px;
+        margin-top: -130px;
+        border-radius: 10px;
+    }
 }
 
 
 .signupScreen > form > h1 {
     text-align: left;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .signupScreen > form > h1 {
+        text-align: center;
+        margin-bottom: 5px;
+    }
 }
 
 .signupScreen > form > h4 {
     text-align: left;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 .signupScreen > form > h5 {
@@ -142,3 +158,5 @@
     text-decoration: underline;
     
   }
+
+  

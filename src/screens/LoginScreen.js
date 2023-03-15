@@ -31,6 +31,7 @@ function LoginScreen() {
       setSignIn(true);
       emailInput.classList.add('valid');
       emailInput.classList.remove('error');
+      
     }
   };
 

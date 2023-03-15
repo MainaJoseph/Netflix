@@ -21,6 +21,13 @@ font-size: 3.125rem;
 margin-bottom: 20px;
 }
 
+@media only screen and (max-width: 600px) {
+    .loginScreen__body > h1 {
+        font-size: 2.125rem;
+        margin-bottom: 10px;
+        }
+}
+
 .signupScreen__gray {
     color: gray;
 }
@@ -31,9 +38,23 @@ margin-bottom: 20px;
     margin-bottom: 30px;
 }
 
+@media only screen and (max-width: 600px) {
+    .loginScreen__body > h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+}
+
 .loginScreen__body > h3 {
     font-size: 1.3rem;
     font-weight: 400;
+}
+
+@media only screen and (max-width: 600px) {
+    .loginScreen__body > h3 {
+        font-size: 1rem;
+    }
 }
 
 .loginScreen__body {
@@ -117,6 +138,36 @@ margin-bottom: 20px;
     margin: 40px;
 }
 
+@media only screen and (max-width: 600px) {
+    .loginScreen__input {
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    
+    .loginScreen__input > form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      width: 100%;
+    }
+    
+    .loginScreen__input > form > input {
+      order: 1;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    
+    .loginScreen__getStarted {
+      order: 2;
+      width: auto;
+      margin-bottom: 0;
+    }
+  }
+
 .loginScreen__getStarted {
     padding: 16px 20px;
     font-size: 1rem;
@@ -129,6 +180,8 @@ margin-bottom: 20px;
     margin-left: 10px; /* Add margin between button and input */
 
 }
+
+
 
 .loginScreen__getStarted:hover {
     background-color: #f70a12; 
