@@ -79,7 +79,7 @@ You can use Redux together with React, or with any other view library. It is tin
 [Firebase](https://firebase.google.com/docs)
 
 
-Firebase is a mobile and web application development platform acquired by Google in 2014. It provides developers with a variety of tools and services to help them build and scale their applications, including real-time databases, authentication, hosting, storage, messaging, and more.
+[Firebase](https://firebase.google.com/docs) is a mobile and web application development platform acquired by Google in 2014. It provides developers with a variety of tools and services to help them build and scale their applications, including real-time databases, authentication, hosting, storage, messaging, and more.
 
 Firebase's real-time database allows for real-time synchronization of data between clients, enabling developers to build applications that update data in real-time without the need for server-side code. Firebase Authentication provides easy-to-use authentication services, including support for email/password authentication, social login, and more.
 
@@ -88,3 +88,14 @@ Firebase Hosting provides developers with a fast and reliable way to host their 
 Firebase also includes a suite of cloud functions that allow developers to run server-side code without having to manage their own servers, as well as tools for analytics and performance monitoring.
 
 Overall, Firebase is a powerful tool for developers looking to build high-quality mobile and web applications quickly and efficiently.
+
+
+`Stripe`
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/1280px-Stripe_Logo%2C_revised_2016.svg.png" width="50" height="50" />
+
+
+[Stripe](https://stripe.com/docs)
+
+
+[Stripe](https://stripe.com/docs) provides a set of programmable APIs and tools to let you facilitate payments and pay out sellers globally. From verifying your sellers' identities to routing payments, Stripe makes it easy for platforms and marketplaces to manage their payments while staying compliant.
