@@ -99,3 +99,13 @@ Overall, Firebase is a powerful tool for developers looking to build high-qualit
 
 
 [Stripe](https://stripe.com/docs) provides a set of programmable APIs and tools to let you facilitate payments and pay out sellers globally. From verifying your sellers' identities to routing payments, Stripe makes it easy for platforms and marketplaces to manage their payments while staying compliant.
+
+
+`The Movie DB`
+
+<img src="https://pbs.twimg.com/profile_images/1243623122089041920/gVZIvphd_400x400.jpg" width="50" height="50" />
+
+[TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
+
+
+[The Movie Database (TMDB)](https://developers.themoviedb.org/3/getting-started/introduction) is a popular, community-built database for movies and TV shows. All the content has been added and updated by users dating back to the year 2008. TMDB has a strong focus on collecting data from around the globe, and covers a wide range of data, most of which can only be found on TMDB.
