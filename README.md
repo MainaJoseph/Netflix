@@ -68,3 +68,23 @@ Redux is a predictable state container for JavaScript apps.
 It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger.
 
 You can use Redux together with React, or with any other view library. It is tiny (2kB, including dependencies), but has a large ecosystem of addons available.
+
+
+`Firebase`
+
+
+<img src="https://firebase.google.com/images/social.png" width="50" height="50" />
+
+
+[Firebase](https://firebase.google.com/docs)
+
+
+Firebase is a mobile and web application development platform acquired by Google in 2014. It provides developers with a variety of tools and services to help them build and scale their applications, including real-time databases, authentication, hosting, storage, messaging, and more.
+
+Firebase's real-time database allows for real-time synchronization of data between clients, enabling developers to build applications that update data in real-time without the need for server-side code. Firebase Authentication provides easy-to-use authentication services, including support for email/password authentication, social login, and more.
+
+Firebase Hosting provides developers with a fast and reliable way to host their web applications, while Firebase Storage allows for easy storage and retrieval of user-generated content like images and videos.
+
+Firebase also includes a suite of cloud functions that allow developers to run server-side code without having to manage their own servers, as well as tools for analytics and performance monitoring.
+
+Overall, Firebase is a powerful tool for developers looking to build high-quality mobile and web applications quickly and efficiently.
