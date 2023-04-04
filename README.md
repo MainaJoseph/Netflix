@@ -1,13 +1,16 @@
 # Getting Started with Create React App and Redux
 [#Demo](https://netflix-clone-jm-9d3f2.firebaseapp.com/)
 
+![netflix](https://user-images.githubusercontent.com/75726095/229722806-0bb6ea78-ef56-4e47-a7af-299af5a30153.jpeg)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` or `yarn start` depending your package installer
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
