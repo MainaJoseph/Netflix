@@ -1,5 +1,5 @@
 # Getting Started with Create React App and Redux
-#[Netflix Clone](https://netflix-clone-jm-9d3f2.firebaseapp.com/)
+[#Demo](https://netflix-clone-jm-9d3f2.firebaseapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
