@@ -51,5 +51,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ##Technologies Used:
 
 ###Create react App
-###<img src="https://user-images.githubusercontent.com/75726095/229724867-78293704-4540-4090-88f2-2e5319f393df.png" width="50" height="50" />
-###[create React App](https://create-react-app.dev/)
+
+<img src="https://user-images.githubusercontent.com/75726095/229724867-78293704-4540-4090-88f2-2e5319f393df.png" width="50" height="50" />
+
+[create React App](https://create-react-app.dev/)
