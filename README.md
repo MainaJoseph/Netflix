@@ -1,5 +1,5 @@
 # Getting Started with Create React App and Redux
-# [Demo](https://netflix-clone-jm-9d3f2.firebaseapp.com/)
+# [Demo](https://netflix-2-ac220.web.app/)
 
 ![netflix](https://user-images.githubusercontent.com/75726095/229722806-0bb6ea78-ef56-4e47-a7af-299af5a30153.jpeg)
 
